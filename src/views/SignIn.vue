@@ -19,8 +19,8 @@
               <div class="mt-8 card card-plain">
                 <div class="pb-0 card-header text-start">
                   <h3 class="font-weight-bolder text-success text-gradient">
-                    THANAㅣ
-                  </h3>Business.
+                    THANAㅣ<span>Business.</span>
+                  </h3>
                   <p class="mb-0">Enter your email and password to sign in</p>
                 </div>
                 <div class="card-body">
