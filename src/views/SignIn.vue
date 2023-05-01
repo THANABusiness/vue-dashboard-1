@@ -74,7 +74,7 @@
                   :style="{
                     backgroundImage:
                       'url(' +
-                      require('@/assets/img/curved-images/curved9.jpg') +
+                      require('https://ibb.co/3kNK1qw') +
                       ')',
                   }"
                 ></div>
