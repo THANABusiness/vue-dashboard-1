@@ -19,20 +19,20 @@
               <div class="mt-8 card card-plain">
                 <div class="pb-0 card-header text-start">
                   <h3 class="font-weight-bolder text-success text-gradient">
-                    Welcome back
-                  </h3>
+                    THANAㅣ
+                  </h3>Business.
                   <p class="mb-0">Enter your email and password to sign in</p>
                 </div>
                 <div class="card-body">
                   <form role="form" class="text-start">
-                    <label>Email</label>
+                    <label>อีเมล</label>
                     <vsud-input
                       id="email"
                       type="email"
                       placeholder="Email"
                       name="email"
                     />
-                    <label>Password</label>
+                    <label>รหัสผ่าน</label>
                     <vsud-input
                       id="password"
                       type="password"
@@ -40,7 +40,7 @@
                       name="password"
                     />
                     <vsud-switch id="rememberMe" name="rememberMe" checked>
-                      Remember me
+                      จดจำฉัน
                     </vsud-switch>
                     <div class="text-center">
                       <vsud-button
@@ -48,7 +48,7 @@
                         variant="gradient"
                         color="success"
                         full-width
-                        >Sign in
+                        >เข้าสู่ระบบ
                       </vsud-button>
                     </div>
                   </form>
