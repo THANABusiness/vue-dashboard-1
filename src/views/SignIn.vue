@@ -74,7 +74,7 @@
                   :style="{
                     backgroundImage:
                       'url(' +
-                      require('https://ibb.co/3kNK1qw') +
+                      require('https://i.ibb.co/M9Vdn4b/3-D7-AE094-A234-4-F89-97-D5-2438-CF799466.jpg') +
                       ')',
                   }"
                 ></div>
